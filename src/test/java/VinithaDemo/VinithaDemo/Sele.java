@@ -9,7 +9,9 @@ public class Sele {
 		// TODO Auto-generated method stub
 		// TODO Auto-generated method stub
 
-
+		System.out.println("data updated");
+		
+		System.out.println("data updated");
 	}
 
 }
